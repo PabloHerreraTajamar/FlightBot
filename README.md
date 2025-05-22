@@ -18,3 +18,4 @@ Puedes interactuar con FlightBot directamente a través de la siguiente página:
 
 - **Python**
 - **Streamlit**: Para crear la interfaz de usuario interactiva.
+- **Azure Language Service – Conversational Language Understanding (CLU)**: 
